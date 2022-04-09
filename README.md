@@ -25,5 +25,6 @@ Klik na `dugme U` - ukljucivanje/iskljucivanje ImGuia i mogucnost slobodnijeg i 
 Generalno kretanje po sceni: tipke `W (gore)` `A (levo)` `S (dole)` `D (desno)` + pomeranje pomocu `kursora` koja je moguce iskljuciti putem CheckBoxa.
 
 --------------------------------
+(Ostalo mi je drugo ime prilikom ucitavanja fajlova putem terminala, izvinite. :) )
 
 # GRAFIKA
